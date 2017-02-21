@@ -15,7 +15,7 @@
 /* MySQL settings */
 define( 'DB_NAME',     'wordpress' );
 define( 'DB_USER',     'wordpress' );
-define( 'DB_PASSWORD', 'dBx0iK0ujWFZ4XjICiiBDB5W' );
+define( 'DB_PASSWORD', 'Password.1' );
 define( 'DB_HOST',     'db' );
 define( 'DB_CHARSET',  'utf8' );
 
